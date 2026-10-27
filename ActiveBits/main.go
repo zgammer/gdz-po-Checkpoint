@@ -8,3 +8,5 @@ import (
 func main() {
 	fmt.Println(piscinego1.ActiveBits(123))
 }
+
+//go run .\ActiveBits\main.go

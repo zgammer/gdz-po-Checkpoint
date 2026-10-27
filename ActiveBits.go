@@ -10,3 +10,5 @@ func ActiveBits(n int) int {
 	}
 	return result
 }
+
+//go run .\ActiveBits\main.go
