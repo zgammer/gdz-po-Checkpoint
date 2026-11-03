@@ -24,9 +24,7 @@ https://github.com/01-edu/public/tree/master/subjects
 | wordflip | ❌ |
 | revwstr | ❌ |
 | thirdtimeisacharm | ❌ |
-| [printrevcomb](printrevcomb
-/main.go) | [✅](printrevcomb
-/main.go) |
+| [printrevcomb](printrevcomb/main.go) | [✅](printrevcomb/main.go) |
 | [printmemory](PrintMemory.go) | [✅](PrintMemory.go) |
 | weareunique | ❌ |
 | [itoa](Itoa.go) | [✅](Itoa.go) |
