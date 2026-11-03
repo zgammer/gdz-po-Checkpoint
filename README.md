@@ -1,8 +1,10 @@
 # gdz-po-Checkpoint
-Если хотите просто ctrl+c ctrl+v то пж поменяйте piscinego1 на piscine . Так как для локального теста и запуска файлов нужно оставить piscinego1 (не спрашивайте меня почему).
+Если хотите просто ctrl+c ctrl+v во время чекпойнта то пж поменяйте piscinego1 на piscine . Так как для локального теста и запуска файлов нужно оставить piscinego1 (не спрашивайте меня почему).
 
 для просмотра всех задачь и их ТЗ 
 https://github.com/01-edu/public/tree/master/subjects
+
+Весь код натуральный , без ГМО , не искусственных добавок и конвейерной автоматизации . Все сделанно руками 
 
 ## Список заданий
 
@@ -15,17 +17,19 @@ https://github.com/01-edu/public/tree/master/subjects
 | [addprimesum](addprimesum/main.go) | [✅](addprimesum/main.go) |
 | [fprime](fprime/main.go) | [✅](fprime/main.go) |
 | canjump | ❌ |
-| notdecimal | ❌ |
+| [notdecimal](NotDecimal.go) | [✅](NotDecimal.go) |
 | slice | ❌ |
 | fifthandskip | ❌ |
 | revconcatalternate | ❌ |
 | wordflip | ❌ |
 | revwstr | ❌ |
 | thirdtimeisacharm | ❌ |
-| printrevcomb | ❌ |
-| printmemory | ❌ |
+| [printrevcomb](printrevcomb
+/main.go) | [✅](printrevcomb
+/main.go) |
+| [printmemory](PrintMemory.go) | [✅](PrintMemory.go) |
 | weareunique | ❌ |
-| itoa | ❌ |
+| [itoa](Itoa.go) | [✅](Itoa.go) |
 | iscapitalized | ❌ |
 | fromto | ❌ |
 | zipstring | ❌ |
@@ -40,7 +44,7 @@ https://github.com/01-edu/public/tree/master/subjects
 | union | ❌ |
 | rectperimeter | ❌ |
 | countcharacter | ❌ |
-| checknumber | ❌ |
+| [checknumber](CheckNumber.go) | [✅](CheckNumber.go) |
 | countalpha | ❌ |
 | printif | ❌ |
 | printifnot | ❌ |
@@ -48,10 +52,10 @@ https://github.com/01-edu/public/tree/master/subjects
 | digitlen | ❌ |
 | fishandchips | ❌ |
 | cameltosnakecase | ❌ |
-| gcd | ❌ |
+| [gcd](Gcd.go) | [✅](Gcd.go) |
 | hashcode | ❌ |
 | lastword | ❌ |
 | firstword | ❌ |
 | repeatalpha | ❌ |
 | searchreplace | ❌ |
-| findprevprime | ❌ |
+| [findprevprime](FindPrevPrime.go) | [✅](FindPrevPrime.go) |
